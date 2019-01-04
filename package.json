@@ -1,0 +1,22 @@
+{
+  "name": "solc-bug-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxsam4/solc-bug-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxsam4/solc-bug-sample/issues"
+  },
+  "homepage": "https://github.com/maxsam4/solc-bug-sample#readme",
+  "dependencies": {
+    "solc": "0.4.24"
+  }
+}
