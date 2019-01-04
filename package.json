@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/maxsam4/solc-bug-sample#readme",
   "dependencies": {
-    "solc": "0.4.24"
+    "solc": "0.5.2"
   }
 }
